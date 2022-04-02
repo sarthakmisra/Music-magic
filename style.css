@@ -1,0 +1,23 @@
+#header {
+    background-color: aqua;
+    border-radius: 30px;
+    width:1200px;
+}
+h1 {
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+p {
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+b {
+    color: red;
+}
+canvas {
+    border: solid white;
+    border-radius: 20px;
+    background-color: white;
+}
